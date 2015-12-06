@@ -1,0 +1,61 @@
+<head> 
+<title>company</title> 
+
+<script> 
+$(document).ready(function()
+
+{ $("#company").hide(); 
+	$("button").click(function()
+		
+		{ 
+	
+		$.get("display/list", function(data)
+		
+		 { 
+		   console.log(data); 
+		   $("#company").show(); 
+
+			for (var i = 0; i < 15; i++) 
+			{  
+		
+				
+				var row = $("<tr>");
+					
+				 $("#company").append(row); 
+					row.append($("<td>" + data[i].firstname + "</td>")); 
+					row.append($("<td>" + data[i].lastname + "</td>")); 
+					row.append($("<td>" + data[i].age + "</td>")); 
+					row.append($("<td>" + data[i].address + "</td>")); 
+					row.append($("<td>" + data[i].contact + "</td>"));
+					row.append($("<td>" + data[i].socialsite + "</td>"));
+
+				var row = $("<tr/>"); 
+			} 
+		   }); 
+	
+		   }); 
+	
+}); 
+</script>
+</head> 
+
+<body> 
+<center>
+<h1><center>WebData Management & XML Project 1- Company Employees</center></h1>
+<p> <center>Table list for company employees </center></p>
+
+<button>Click Me</button>
+
+<table id="company"> 
+<tr> 
+<th> Firstname </th> 
+<th> Lastname </th> 
+<th> Age </th> 
+<th> Address</th> 
+<th> Contact </th> 
+<th> Socialsite </th> 
+</tr> 
+</table> 
+</center>
+</body>
+
