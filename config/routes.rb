@@ -1,7 +1,10 @@
 Rails.application.routes.draw do
-  get 'display/list'
+ # get 'retrieve/records'
+
+  #get 'display/list'
 
   root 'welcome#index'
+  get 'display/list/:j' => 'display#list'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

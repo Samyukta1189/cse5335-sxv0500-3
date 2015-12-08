@@ -1,10 +1,10 @@
 require 'mongo'
 require 'csv'
 
-mongo_uri = 'mongodb://heroku_zcv2fdx1:nbl7j60dsuekm0kgj8jl5sqqr9@ds055594.mongolab.com:55594/heroku_zcv2fdx1'
+MONGOLAB_URI: mongodb://heroku_fsp58p2g:2ga8p224lfv9eh59q8qr4m0ilc@ds031957.mongolab.com:31957/heroku_fsp58p2g
 
 begin
-    client = Mongo::Client.new([ 'ds055594.mongolab.com:55594' ],:database =>'heroku_zcv2fdx1',:user=>'heroku_zcv2fdx1',:password=>'nbl7j60dsuekm0kgj8jl5sqqr9');
+    client = Mongo::Client.new([ 'ds031957.mongolab.com:31957' ],:database =>'heroku_fsp58p2g',:user=>'heroku_fsp58p2g',:password=>'2ga8p224lfv9eh59q8qr4m0ilc');
     puts "Connected to Mongodb"
 	puts "Enter a primary key for university_mongo database [UNITID]"
 	key = gets

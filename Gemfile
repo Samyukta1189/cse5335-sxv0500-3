@@ -1,10 +1,12 @@
 source 'https://rubygems.org'
-ruby '2.2.3'
+ruby '2.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
 # Use postgresql as the database for Active Record
 gem 'pg'
+gem 'bson','~>3.0'
+gem 'mongo','~>2.1'
 gem 'rails_12factor', group: :production
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0.3'
@@ -14,7 +16,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
-
+gem 'sqlite3'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
@@ -30,8 +32,8 @@ gem 'spring',        group: :development
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem 'puma'
-
+# gem 'puma'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 

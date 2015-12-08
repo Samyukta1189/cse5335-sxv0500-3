@@ -1,61 +1,85 @@
-<head> 
-<title>company</title> 
+<style>
+table#dtable{
+background-color: #B6B6B4
+color: black;
+border: 1px solid black;
+}
 
-<script> 
-$(document).ready(function()
+</style>
 
-{ $("#company").hide(); 
-	$("button").click(function()
-		
-		{ 
-	
-		$.get("display/list", function(data)
-		
-		 { 
-		   console.log(data); 
-		   $("#company").show(); 
 
-			for (var i = 0; i < 15; i++) 
-			{  
-		
-				
-				var row = $("<tr>");
-					
-				 $("#company").append(row); 
-					row.append($("<td>" + data[i].firstname + "</td>")); 
-					row.append($("<td>" + data[i].lastname + "</td>")); 
-					row.append($("<td>" + data[i].age + "</td>")); 
-					row.append($("<td>" + data[i].address + "</td>")); 
-					row.append($("<td>" + data[i].contact + "</td>"));
-					row.append($("<td>" + data[i].socialsite + "</td>"));
 
-				var row = $("<tr/>"); 
-			} 
-		   }); 
-	
-		   }); 
-	
-}); 
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $("#button1").click(function(){
+      var count=1;
+      //var seq_id=1;
+       //jquery call back function to get one record in each request
+        var callbackfn=setInterval(function() {
+          $.get("display/list/"+ count.toString(), function (data) {
+		  alert "hiii"
+            for (var j = 0; j < data.length; j++){
+              if(count%20===0){
+                $("#cod").html("");
+              }
+              $("#num").html(count.toString());
+              if (j % 2 == 0) {
+                var row = $("<tr id='"+count+"' class='even'>");
+              }
+              else {
+                var row = $("<tr id='"+count+"'>");
+              }
+			  row.append($("<td>" + data[j].seqid + "</td>"));
+              row.append($("<td>" + data[j].unitid + "</td>"));
+              row.append($("<td>" + data[j].opeid + "</td>"));
+              row.append($("<td>" + data[j].opeid6 + "</td>"));
+              row.append($("<td>" + data[j].instnm + "</td>"));
+              row.append($("<td>" + data[j].city + "</td>"));
+              row.append($("<td>" + data[j].stabbr + "</td>"));
+              row.append($("<td>" + data[j].insturl + "</td>"));
+			  row.append($("<td>" + data[j].npcurl + "</td>"));
+			  row.append($("<td>" + data[j].locale + "</td>"));
+              row.append($("</tr>"));
+              $("#cod").append(row);
+              $("#cod tr#"+count).hide();
+              $("#cod tr#"+count).fadeIn("slow");
+              count = count + 1;
+              //seq_id=seq_id+1;
+              if (count==100){
+                clearInterval(callbackfn);
+              }
+            }
+          });
+        }, 500);
+      });
+  });
 </script>
-</head> 
+<div align="center">
+  <h1 style="color:darkblue;font-family:courier">CSE5335 - Project3 - University List</h1>
 
-<body> 
-<center>
-<h1><center>WebData Management & XML Project 1- Company Employees</center></h1>
-<p> <center>Table list for company employees </center></p>
 
-<button>Click Me</button>
+  <input type="button" id="button1" value="Click Me !!!" style="color:black;background-color:lightgrey" name="button"/>
+  <br/>
+  <span style="color:grey">Number of records: <label id="num"></label></span>
+  <table cellspacing='10' id="dtable">
+    <thead>
+    <tr>
+	<th>SEQID</th>
+      <th>UNITID</th>
+      <th>OPEID</th>
+      <th>OPEID6</th>
+      <th>INSTITUTE NAME</th>
+      <th>CITY</th>
+      <th>STABBR</th>
+      <th>INSTITUTE URL</th>
+	  <th>NPCURL</th>
+      <th>LOCALE</th>
+	</tr>
+    </thead>
+    <tbody id="cod">
+    </tbody>
 
-<table id="company"> 
-<tr> 
-<th> Firstname </th> 
-<th> Lastname </th> 
-<th> Age </th> 
-<th> Address</th> 
-<th> Contact </th> 
-<th> Socialsite </th> 
-</tr> 
-</table> 
-</center>
-</body>
+  </table>
 
+  </div>
