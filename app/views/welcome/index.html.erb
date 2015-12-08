@@ -5,6 +5,12 @@ color: black;
 border: 1px solid black;
 }
 
+table#dtable tr:nth-child(odd) {
+    background-color: #eee;
+    border: 1px solid black;
+    
+}
+
 </style>
 
 
@@ -18,7 +24,6 @@ border: 1px solid black;
        //jquery call back function to get one record in each request
         var callbackfn=setInterval(function() {
           $.get("display/list/"+ count.toString(), function (data) {
-		  alert "hiii"
             for (var j = 0; j < data.length; j++){
               if(count%20===0){
                 $("#cod").html("");
@@ -30,20 +35,19 @@ border: 1px solid black;
               else {
                 var row = $("<tr id='"+count+"'>");
               }
-			  row.append($("<td>" + data[j].seqid + "</td>"));
+			  
               row.append($("<td>" + data[j].unitid + "</td>"));
               row.append($("<td>" + data[j].opeid + "</td>"));
               row.append($("<td>" + data[j].opeid6 + "</td>"));
               row.append($("<td>" + data[j].instnm + "</td>"));
               row.append($("<td>" + data[j].city + "</td>"));
-              row.append($("<td>" + data[j].stabbr + "</td>"));
               row.append($("<td>" + data[j].insturl + "</td>"));
-			  row.append($("<td>" + data[j].npcurl + "</td>"));
+			  row.append($("<td>" + data[j].stabbr + "</td>"));
 			  row.append($("<td>" + data[j].locale + "</td>"));
               row.append($("</tr>"));
               $("#cod").append(row);
               $("#cod tr#"+count).hide();
-              $("#cod tr#"+count).fadeIn("slow");
+              $("#cod tr#"+count).fadeIn(“slow”);
               count = count + 1;
               //seq_id=seq_id+1;
               if (count==100){
@@ -55,25 +59,24 @@ border: 1px solid black;
       });
   });
 </script>
+<body bgcolor="#e5fff2">
 <div align="center">
-  <h1 style="color:darkblue;font-family:courier">CSE5335 - Project3 - University List</h1>
+  <h1 style="color:darkblue;font-family:Book Antiqua;font-size:24">CSE5335-Project3-University List</h1>
 
 
   <input type="button" id="button1" value="Click Me !!!" style="color:black;background-color:lightgrey" name="button"/>
   <br/>
-  <span style="color:grey">Number of records: <label id="num"></label></span>
-  <table cellspacing='10' id="dtable">
+  <span style="color:#3d5c5c">Number of records displaying: <label id="num"></label></span>
+  <table cellspacing='0' cellpadding='5' id="dtable">
     <thead>
     <tr>
-	<th>SEQID</th>
       <th>UNITID</th>
       <th>OPEID</th>
       <th>OPEID6</th>
-      <th>INSTITUTE NAME</th>
+      <th>INSTITUTENAME</th>
       <th>CITY</th>
-      <th>STABBR</th>
-      <th>INSTITUTE URL</th>
-	  <th>NPCURL</th>
+      <th>STATE</th>
+      <th>INSTITUTEURL</th>
       <th>LOCALE</th>
 	</tr>
     </thead>
@@ -83,3 +86,4 @@ border: 1px solid black;
   </table>
 
   </div>
+  </body>
