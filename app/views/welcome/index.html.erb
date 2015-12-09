@@ -25,7 +25,7 @@ table#dtable tr:nth-child(odd) {
         var callbackfn=setInterval(function() {
           $.get("display/list/"+ count.toString(), function (data) {
             for (var j = 0; j < data.length; j++){
-              if(count%20===0){
+              if(count%21===0){
                 $("#cod").html("");
               }
               $("#num").html(count.toString());
@@ -41,13 +41,13 @@ table#dtable tr:nth-child(odd) {
               row.append($("<td>" + data[j].opeid6 + "</td>"));
               row.append($("<td>" + data[j].instnm + "</td>"));
               row.append($("<td>" + data[j].city + "</td>"));
+              row.append($("<td>" + data[j].stabbr + "</td>"));
               row.append($("<td>" + data[j].insturl + "</td>"));
-			  row.append($("<td>" + data[j].stabbr + "</td>"));
 			  row.append($("<td>" + data[j].locale + "</td>"));
               row.append($("</tr>"));
               $("#cod").append(row);
               $("#cod tr#"+count).hide();
-              $("#cod tr#"+count).fadeIn(“slow”);
+              $("#cod tr#"+count).fadeIn("slow");
               count = count + 1;
               //seq_id=seq_id+1;
               if (count==100){
@@ -65,7 +65,7 @@ table#dtable tr:nth-child(odd) {
 
 
   <input type="button" id="button1" value="Click Me !!!" style="color:black;background-color:lightgrey" name="button"/>
-  <br/>
+  <br/><br/>
   <span style="color:#3d5c5c">Number of records displaying: <label id="num"></label></span>
   <table cellspacing='0' cellpadding='5' id="dtable">
     <thead>
