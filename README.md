@@ -18,9 +18,10 @@
 #####1.Easy implementations
 
      The part of the programming project which did not have any difficulties were:
-     *Loading the data into the MongoLabs in Heroku from an external csv file.
+     *Loading the data into the MongoLabs in Heroku from an external csv file as we have already done this in previous project.
      *Creating the framework for the implementation on rails server using ruby with the MVC model.
      *Rendering data from the MongoLab to the browser side using json as this was similar to the first project where that was rendering using json data.
+     *Animating the webpage display as this was the fun part.
 
 #####2.Difficult Implementations
 
