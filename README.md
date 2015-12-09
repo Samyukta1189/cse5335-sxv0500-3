@@ -26,7 +26,7 @@
 
      The part of the project which possesed difficulty at the time of implementation was:
      *Using rails framework and ruby on windows8.1 OS, there was trouble with the javascript and jquery  turbolinks in the rails version 4.2.3. There were overriding inbuilt jquery scripts which were making the jquery script inactive.
-     *Calling 100 records with multiple AJAX request with 0.5s time interval. Ths was producing random records from the database and sometimes repeating ambigiously. The request is responding very slow after the button click. This was due to the call and retrieve time conflicts and server load.
+     *Calling 100 records with multiple AJAX request with 0.5s time interval was initially producing random records from the database and sometimes repeating ambigiously.This was due to the call and retrieve time conflicts and server load.Solved this by resetting the callback time and testing on various conditions.
 
 #####3. Usage of technologies professionally
 
