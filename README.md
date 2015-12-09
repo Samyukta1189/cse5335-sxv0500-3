@@ -31,7 +31,8 @@
 #####3. Usage of technologies professionally
 
      Using these technologies professionally definitely is suggestible for the reasons that these technologies are more developer friendly and gives open opportunities to a lot of learning.
-     The challeneges of using them professionally, firstly is the compatibility and time constrains in using them with different operating systems. The installation and development procedures slightly differ for each OS and a lot of time consumes in setting up the frameworks and installations.
+     The challeneges of using them professionally,
+     Firstly is the compatibility and time constrains in using them with different operating systems. The installation and development procedures slightly differ for each OS and a lot of time consumes in setting up the frameworks and installations.
      Secondly, limited help from the articles, tutorials and blogs. Since these are developing technologies, new issues keep arising and sometimes it is difficult to find the root cause.
  
 #####4. Commands to upload and run project 
