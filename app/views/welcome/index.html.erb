@@ -1,0 +1,89 @@
+<style>
+table#dtable{
+background-color: #B6B6B4
+color: black;
+border: 1px solid black;
+}
+
+table#dtable tr:nth-child(odd) {
+    background-color: #eee;
+    border: 1px solid black;
+    
+}
+
+</style>
+
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $("#button1").click(function(){
+      var count=1;
+      //var seq_id=1;
+       //jquery call back function to get one record in each request
+        var callbackfn=setInterval(function() {
+          $.get("display/list/"+ count.toString(), function (data) {
+            for (var j = 0; j < data.length; j++){
+              if(count%21===0){
+                $("#cod").html("");
+              }
+              $("#num").html(count.toString());
+              if (j % 2 == 0) {
+                var row = $("<tr id='"+count+"' class='even'>");
+              }
+              else {
+                var row = $("<tr id='"+count+"'>");
+              }
+			  
+              row.append($("<td>" + data[j].unitid + "</td>"));
+              row.append($("<td>" + data[j].opeid + "</td>"));
+              row.append($("<td>" + data[j].opeid6 + "</td>"));
+              row.append($("<td>" + data[j].instnm + "</td>"));
+              row.append($("<td>" + data[j].city + "</td>"));
+              row.append($("<td>" + data[j].stabbr + "</td>"));
+              row.append($("<td>" + data[j].insturl + "</td>"));
+			  row.append($("<td>" + data[j].locale + "</td>"));
+              row.append($("</tr>"));
+              $("#cod").append(row);
+              $("#cod tr#"+count).hide();
+              $("#cod tr#"+count).fadeIn("slow");
+              count = count + 1;
+              //seq_id=seq_id+1;
+              if (count==100){
+                clearInterval(callbackfn);
+              }
+            }
+          });
+        }, 500);
+      });
+  });
+</script>
+<body bgcolor="#e5fff2">
+<div align="center">
+  <h1 style="color:darkblue;font-family:Book Antiqua;font-size:24">CSE5335-Project3-University List</h1>
+
+
+  <input type="button" id="button1" value="Click Me !!!" style="color:black;background-color:lightgrey" name="button"/>
+  <br/><br/>
+  <span style="color:#3d5c5c">Number of records displaying: <label id="num"></label></span>
+  <table cellspacing='0' cellpadding='5' id="dtable">
+    <thead>
+    <tr>
+      <th>UNITID</th>
+      <th>OPEID</th>
+      <th>OPEID6</th>
+      <th>INSTITUTENAME</th>
+      <th>CITY</th>
+      <th>STATE</th>
+      <th>INSTITUTEURL</th>
+      <th>LOCALE</th>
+	</tr>
+    </thead>
+    <tbody id="cod">
+    </tbody>
+
+  </table>
+
+  </div>
+  </body>

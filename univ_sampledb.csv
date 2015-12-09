@@ -1,0 +1,380 @@
+SEQ_ID,UNITID,OPEID,opeid6,INSTNM,CITY,STABBR,INSTURL,NPCURL,LOCALE
+1,100654,100200,1002,Alabama A & M University,Normal,AL,www.aamu.edu/,galileo.aamu.edu/netpricecalculator/npcalc.htm,12
+2,100663,105200,1052,University of Alabama at Birmingham,Birmingham,AL,www.uab.edu,www.collegeportraits.org/AL/UAB/estimator/agree,12
+3,100690,2503400,25034,Amridge University,Montgomery,AL,www.amridgeuniversity.edu,tcc.noellevitz.com/(S(miwoihs5stz5cpyifh4nczu0))/Amridge%20University/Freshman-Students,12
+4,100706,105500,1055,University of Alabama in Huntsville,Huntsville,AL,www.uah.edu,finaid.uah.edu/,12
+5,100724,100500,1005,Alabama State University,Montgomery,AL,www.alasu.edu/email/index.aspx,www.alasu.edu/cost-aid/forms/calculator/index.aspx/,12
+6,100751,105100,1051,The University of Alabama,Tuscaloosa,AL,www.ua.edu/,oira.ua.edu,13
+7,100760,100700,1007,Central Alabama Community College,Alexander City,AL,www.cacc.edu,www.cacc.edu/graphics/netpricecalculator/npcalc.htm,32
+8,100812,100800,1008,Athens State University,Athens,AL,www.athens.edu,24.athens.edu/apex/prod8/f?p=174:1:3941357449598491,31
+9,100830,831000,8310,Auburn University at Montgomery,Montgomery,AL,www.aum.edu,www.aum.edu/admissions/financial-information/price-estimator-calculator,12
+10,100858,100900,1009,Auburn University,Auburn University,AL,www.auburn.edu,www.auburn.edu/admissions/money-matters.html,13
+11,100937,101200,1012,Birmingham Southern College,Birmingham,AL,www.bsc.edu/,www.bsc.edu/fp/np-calculator.cfm,12
+12,101028,1218200,12182,Chattahoochee Valley Community College,Phenix City,AL,www.cv.edu,external.cv.edu/npc/npcalc.htm,41
+13,101073,1055400,10554,Concordia College Alabama,Selma,AL,www.ccal.edu/,www.ccal.edu/netprice/netprice/,32
+14,101116,1303906,13039,South University-Montgomery,Montgomery,AL,southuniversity.edu,tcc.noellevitz.com/edmc/Transfer-Students?iframe=true&width=600&height=1000,12
+15,101143,101500,1015,Enterprise State Community College,Enterprise,AL,www.escc.edu,www.escc.edu/NetPrice/npcalc.htm,32
+16,101161,106000,1060,James H Faulkner State Community College,Bay Minette,AL,www.faulknerstate.edu,www.faulknerstate.edu,32
+17,101189,100300,1003,Faulkner University,Montgomery,AL,www.faulkner.edu,www.faulkner.edu/netprice/,12
+18,101240,101700,1017,Gadsden State Community College,Gadsden,AL,www.gadsdenstate.edu,www.gadsdenstate.edu/netpricecalculator/,13
+19,101277,4187200,41872,New Beginning College of Cosmetology,Albertville,AL,www.nbccosmetology.com,www.nbccosmetology.com/npcalc.htm,32
+20,101286,101800,1018,George C Wallace State Community College-Dothan,Dothan,AL,www.wallace.edu,www.wallace.edu/net_price_calculator.aspx,41
+21,101295,787100,7871,George C Wallace State Community College-Hanceville,Hanceville,AL,www.wallacestate.edu,www.wallacestate.edu/Financial-Aid/Net-Price-Calculator/index,32
+22,101301,569900,5699,George C Wallace State Community College-Selma,Selma,AL,www.wccs.edu,www.wccs.edu/index.php?page=npc.html,32
+23,101365,962107,9621,Herzing University-Birmingham,Birmingham,AL,www.herzing.edu/birmingham,www.herzing.edu/financial-aid/net-price-calculator,21
+24,101435,101900,1019,Huntingdon College,Montgomery,AL,www.huntingdon.edu,hawk.huntingdon.edu/oiac/netpricecalculator/npcalc.htm,12
+25,101453,2199700,21997,Heritage Christian University,Florence,AL,www.hcu.edu,www.hcu.edu/share/news/npcalc.htm,13
+26,101462,526000,5260,J F Drake State Community and Technical College,Huntsville,AL,www.drakestate.edu,www.drakestate.edu/admissions/net_price_calculator.aspx,12
+27,101480,102000,1020,Jacksonville State University,Jacksonville,AL,www.jsu.edu/,www.jsu.edu/finaid/,13
+28,101499,102100,1021,Jefferson Davis Community College,Brewton,AL,www.jdcc.edu,www.jdcc.edu/netpricecalculator/,32
+29,101505,102200,1022,Jefferson State Community College,Birmingham,AL,www.jeffstateonline.com,www.jeffstateonline.com/financial/tuition/net-price-calculator/,12
+30,101514,101300,1013,John C Calhoun State Community College,Tanner,AL,www.calhoun.edu,calhoun.studentaidcalculator.com/,41
+31,101541,102300,1023,Judson College,Marion,AL,www.judson.edu,www.judson.edu,43
+32,101569,105900,1059,Lawson State Community College-Birmingham Campus,Birmingham,AL,www.lawsonstate.edu,www.lawsonstate.edu/financialaid/npc/npcalc.htm,12
+33,101587,102400,1024,University of West Alabama,Livingston,AL,www.uwa.edu,secure.uwa.edu/calculator/npcalc.htm,43
+34,101602,898800,8988,Lurleen B Wallace Community College,Andalusia,AL,www.lbwcc.edu,www.lbwcc.edu/financial_aid/2010-2011_net_price_calculator.aspx,41
+35,101648,102600,1026,Marion Military Institute,Marion,AL,www.marionmilitary.edu,www.marionmilitary.edu/admissions/netcalc/npcalc.htm,43
+36,101675,102800,1028,Miles College,Fairfield,AL,www.miles.edu,miles.edu,21
+37,101693,102900,1029,University of Mobile,Mobile,AL,www.umobile.edu,tcc.noellevitz.com/(S(i2ma5wzihnqpsazmq43fszpq))/University%20of%20Mobile/Freshman-Students,41
+38,101709,100400,1004,University of Montevallo,Montevallo,AL,www.montevallo.edu,www.montevallo.edu/finaid/NetPriceCalculator/,21
+39,101736,569700,5697,Northwest-Shoals Community College,Muscle Shoals,AL,www.nwscc.edu,nwscc.edu/financialaid/netpricecalculator/npcalc.htm,13
+40,101879,101600,1016,University of North Alabama,Florence,AL,www.una.edu,studentnpc.collegeboard.org/,13
+41,101897,103100,1031,Northeast Alabama Community College,Rainsville,AL,www.nacc.edu,www.nacc.edu,42
+42,101912,103300,1033,Oakwood University,Huntsville,AL,www.oakwood.edu,www.oakwood.edu/campus-services/financial-aid,12
+43,101949,103400,1034,Alabama Southern Community College,Monroeville,AL,www.ascc.edu,www.ascc.edu,41
+44,101958,2296000,22960,Prince Institute-Southeast,Montgomery,AL,princeinstitute.edu,princeinstitute.edu,12
+45,101994,569200,5692,Reid State Technical College,Evergreen,AL,www.rstc.edu,www.rstc.edu,41
+46,102030,103000,1030,Bishop State Community College,Mobile,AL,www.bishop.edu,www.bishop.edu/calculator/,12
+47,102049,103600,1036,Samford University,Birmingham,AL,www.samford.edu,samford.studentaidcalculator.com/welcome.aspx,21
+48,102058,4067300,40673,Selma University,Selma,AL,selmauniversity.org,selmauniversity.org/financialaidtest.htm,32
+49,102067,569100,5691,Shelton State Community College,Tuscaloosa,AL,www.sheltonstate.edu,www.sheltonstate.edu/financial_aid/price_calculator.aspx,13
+50,102076,103800,1038,Snead State Community College,Boaz,AL,www.snead.edu,www.snead.edu/npcalc.htm,32
+51,102094,105700,1057,University of South Alabama,Mobile,AL,www.southalabama.edu,instresrch.usouthal.edu/npc/,12
+52,102234,104100,1041,Spring Hill College,Mobile,AL,www.shc.edu,www.shc.edu/ug/tuition-and-financial-aid/resources/net-price-calculator,12
+53,102261,2270400,22704,Southeastern Bible College,Birmingham,AL,www.sebc.edu,www.sebc.edu/finaid/net-price-calculator/,21
+54,102270,104400,1044,Stillman College,Tuscaloosa,AL,www.stillman.edu,www.stillman.edu/finanical-aid/npcalc.htm,13
+55,102298,104600,1046,Talladega College,Talladega,AL,www.talladega.edu,www.talladega.edu/netcalc/npcalc.htm,32
+56,102313,573400,5734,H Councill Trenholm State Technical College,Montgomery,AL,www.trenholmstate.edu,www.trenholmstate.edu,12
+57,102368,104700,1047,Troy University,Troy,AL,www.troy.edu,admissions.troy.edu/npcalc.aspx,41
+58,102377,105000,1050,Tuskegee University,Tuskegee,AL,www.tuskegee.edu,www.tuskegee.edu,32
+59,102429,573300,5733,Bevill State Community College,Jasper,AL,www.bscc.edu,www.bscc.edu/financialaid/npcalculator.php,32
+60,102553,1146200,11462,University of Alaska Anchorage,Anchorage,AK,www.uaa.alaska.edu,www.uaa.alaska.edu/financialaid/customcf/npcalc.htm,11
+61,102580,884300,8843,Alaska Bible College,Palmer,AK,www.akbible.edu/,www.akbible.edu/sites/default/files/npcalc.htm,32
+62,102614,106300,1063,University of Alaska Fairbanks,Fairbanks,AK,www.uaf.edu,www.uaf.edu/finaid/net-price-calculator/,23
+63,102632,106500,1065,University of Alaska Southeast,Juneau,AK,www.uas.alaska.edu,www.uas.alaska.edu/financial_aid/costs/npcalc.htm,33
+64,102669,106100,1061,Alaska Pacific University,Anchorage,AK,www.alaskapacific.edu,my.alaskapacific.edu/uniquesigce3d1b55322415c149deda8964ead9cb/uniquesig0/SecureInternalMyPortalHomePage/,11
+65,102711,3160300,31603,AVTEC-Alaska s Institute of Technology,Seward,AK,www.avtec.edu/,www.avtec.edu/npcalc.htm,43
+66,102845,2576900,25769,Charter College-Anchorage,Anchorage,AK,www.chartercollege.edu,chartercollege.studentaidcalculator.com/survey.aspx,11
+67,103361,1146205,11462,Prince William Sound Community College,Valdez,AK,www.pwscc.edu,www.pwscc.edu/admissions/tuition-fees/,43
+68,103501,2541000,25410,Alaska Career College,Anchorage,AK,www.alaskacareercollege.edu,www.alaskacareercollege.edu,11
+69,103644,2295000,22950,Everest College-Phoenix,Phoenix,AZ,www.everestcollegephoenix.edu,www.Everestcollegephoenix.edu/npc,11
+70,103723,2160305,21603,Collins College,Phoenix,AZ,www.collinscollege.edu,collinscollege.studentaidcalculator.com,11
+71,103732,2173204,21732,Empire Beauty School-Paradise Valley,Phoenix,AZ,www.empire.edu,www.empire.edu/net-price-calculator,11
+72,103741,966403,9664,Empire Beauty School-Tucson,Tucson,AZ,www.empire.edu,www.empire.edu/net-price-calculator,11
+73,103787,2199900,21999,American Indian College of the Assemblies of God Inc,Phoenix,AZ,www.aicag.edu/,www.aicag.edu/npc/npcalc.htm,11
+74,103811,2317800,23178,American Institute of Technology,Phoenix,AZ,www.ait-schools.com,www.ait-schools.com,11
+75,103893,2100600,21006,Carrington College-Phoenix,Phoenix,AZ,www.carrington.edu,carrington.edu/financial-aid/net-price-calculator/carrington-college/,11
+76,103909,2100611,21006,Carrington College-Mesa,Mesa,AZ,www.carrington.edu,carrington.edu/financial-aid/net-price-calculator/carrington-college/,11
+77,103927,2100607,21006,Carrington College-Tucson,Tucson,AZ,www.carrington.edu,carrington.edu/financial-aid/net-price-calculator/carrington-college/,11
+78,103945,3120300,31203,College America-Flagstaff,Flagstaff,AZ,www.collegeamerica.edu,www.collegeamerica.edu/net-price-calculator,13
+79,103954,886400,8864,Arizona Academy of Beauty-East,Tucson,AZ,www.arizonaacademy.com,www.arizonaacademy.com,11
+80,103963,1084700,10847,Arizona Automotive Institute,Glendale,AZ,www.aai.edu,www.aai.edu,21
+81,104090,2218800,22188,Brookline College-Phoenix,Phoenix,AZ,www.brooklinecollege.edu,www.brooklinecollege.edu,11
+82,104151,108100,1081,Arizona State University-Tempe,Tempe,AZ,www.asu.edu/,students.asu.edu/costs,12
+83,104160,107100,1071,Arizona Western College,Yuma,AZ,www.azwestern.edu,www.azwestern.edu/business_and_administrative/business_office/npcalc.html,13
+84,104179,108300,1083,University of Arizona,Tucson,AZ,www.arizona.edu,oirps.arizona.edu/npc.html,11
+85,104188,2491500,24915,Southwest University of Visual Arts-Tucson,Tucson,AZ,www.suva.edu,suva.edu/financial_aid.html,11
+86,104294,2561900,25619,Brillare Hairdressing Academy,Scottsdale,AZ,www.brillare.com/,brillare.com/enrollment/financial-aid-tuition,12
+87,104346,728300,7283,Central Arizona College,Coolidge,AZ,www.centralaz.edu,doc.centralaz.edu/NetPriceCalculator/npcalc.htm,41
+88,104364,4051325,40513,Brown Mackie College-Tucson,Tucson,AZ,www.brownmackie.edu,tcc.noellevitz.com/edmc/Brown-Mackie?iframe=true&width=600&height=1000,11
+89,104391,2280500,22805,Charles of Italy Beauty College,Lake Havasu City,AZ,www.charlesofitaly.edu,charlesofitaly.edu,13
+90,104425,107200,1072,Cochise College,Douglas,AZ,www.cochise.edu,www.cochise.edu/netprice/npcalc.htm,42
+91,104434,1054207,10542,Empire Beauty School-Flagstaff,Flagstaff,AZ,www.empire.edu,www.empire.edu/net-price-calculator,13
+92,104443,1054208,10542,Empire Beauty School-Chandler,Chandler,AZ,www.empire.edu,www.empire.edu/net-price-calculator,21
+93,104504,2582700,25827,Cortiva Institute-Tucson,Tucson,AZ,www.cortiva.com/,www.cortiva.com/npc/tucson/npcalc.htm,11
+94,104568,1085800,10858,Avalon School of Cosmetology-Mesa,Mesa,AZ,www.avalon.com,www.avalon.edu/admissions-process/financial-aid/,11
+95,104577,107300,1073,Eastern Arizona College,Thatcher,AZ,www.eac.edu,eac.edu/Student_Services/Financial_Aid/Net_Price/default.shtm,33
+96,104586,147902,1479,Embry-Riddle Aeronautical University-Prescott,Prescott,AZ,www.erau.edu,prescott.erau.edu/financial-aid/net-price-calculator/index.html,41
+97,104665,2533200,25332,Frank Lloyd Wright School of Architecture,Scottsdale,AZ,www.taliesin.edu,taliesin.edu/tuition.html,41
+98,104708,107600,1076,Glendale Community College,Glendale,AZ,www.gccaz.edu,www.gccaz.edu/finaid/1519.htm,21
+99,104717,107400,1074,Grand Canyon University,Phoenix,AZ,www.gcu.edu,www.gcu.edu,11
+100,104805,2263100,22631,Anthem College-Phoenix,Phoenix,AZ,www.anthem.edu,anthem.edu/anthemcollege/net-price-calculator/,11
+101,104911,1218400,12184,International Academy of Hair Design,Mesa,AZ,www.intlacademyaz.com/,www.intlacademyaz.com/,11
+102,105118,2071200,20712,Kaplan College-Phoenix,Phoenix,AZ,www.kaplancollege.com/phoenix-az/,www.kaplancollege.com/tuition-calculator/.aspx,11
+103,105145,830300,8303,GateWay Community College,Phoenix,AZ,www.gatewaycc.edu,www.maricopa.edu/about/tuition/npc/location/gwc,11
+104,105154,107700,1077,Mesa Community College,Mesa,AZ,www.mesacc.edu,www.mesacc.edu/students/net-price-calculator.html,11
+105,105163,732990,7329,ITT Technical Institute-Tucson,Tucson,AZ,www.itt-tech.edu,www.itt-tech.edu/npc,21
+106,105172,732911,7329,ITT Technical Institute-Tempe,Tempe,AZ,www.itt-tech.edu,www.itt-tech.edu/npc,12
+107,105206,1186400,11864,Mohave Community College,Kingman,AZ,www.mohave.edu,www.mohave.edu/admissions/financialaid,41
+108,105215,2100500,21005,Universal Technical Institute of Arizona Inc-Motorcycle Mechanics Institute Division,Phoenix,AZ,www.uti.edu/,www.uti.edu/student-services/financial-aid/npc,11
+109,105297,824600,8246,Dine College,Tsaile,AZ,www.dinecollege.edu,www.dinecollege.edu,43
+110,105330,108200,1082,Northern Arizona University,Flagstaff,AZ,nau.edu/,nau.edu/FinAid/Cost/Budgeting/,13
+111,105349,1186200,11862,Northland Pioneer College,Holbrook,AZ,www.npc.edu,www.npc.edu/net-price-calculator/2011-net-price-calculator,41
+112,105367,193701,1937,Ottawa University-Phoenix,Phoenix,AZ,www.ottawa.edu,www.ottawa.edu/resources/netpricecalculator/npcalc.htm,11
+113,105428,107800,1078,Phoenix College,Phoenix,AZ,www.phoenixcollege.edu,www.pc.maricopa.edu/index.php?page=127&subpage=394,11
+114,105482,2623800,26238,Cortiva Institute-Scottsdale,Scottsdale,AZ,www.cortiva.com/,www.cortiva.com/locations/arizona-massage-school/tuition-financial-aid.aspx,12
+115,105516,2098800,20988,University of Phoenix-Phoenix Campus,Tempe,AZ,www.phoenix.edu,www.phoenix.edu/tuition_and_financial_options/tuition_and_fees.html,12
+116,105525,726600,7266,Pima Community College,Tucson,AZ,www.pima.edu,www.pima.edu/web/net-price-calculator/npc.htm,11
+117,105534,2217100,22171,Pima Medical Institute-Tucson,Tucson,AZ,pmi.edu,pmi.edu,11
+118,105543,2217103,22171,Pima Medical Institute-Albuquerque,Albuquerque,NM,pmi.edu,pmi.edu,11
+119,105589,2065300,20653,Prescott College,Prescott,AZ,www.prescott.edu,www.prescott.edu/apply/true-cost-calculator/index.html,13
+120,105659,1168900,11689,Refrigeration School Inc,Phoenix,AZ,refrigerationschool.com,www.refrigerationschool.com/tuition.html,11
+121,105668,2177500,21775,Rio Salado College,Tempe,AZ,www.rio.maricopa.edu,www.riosalado.edu/financial_aid/Pages/Calculators.aspx,12
+122,105677,2113800,21138,Roberto-Venn School of Luthiery,Phoenix,AZ,www.roberto-venn.com,www.roberto-venn.com/NetPrice/npcalc.htm,11
+123,105701,3005000,30050,Hair Academy of Safford,Safford,AZ,hairacademy.com,hairacademy.com,41
+124,105747,830400,8304,Scottsdale Community College,Scottsdale,AZ,www.scottsdalecc.edu,www.scottsdalecc.edu/admissions/cashiers-office/net-price-calculator,41
+125,105792,2146600,21466,South Mountain Community College,Phoenix,AZ,www.southmountaincc.edu,students.southmountaincc.edu/Services/FinancialAid/,11
+126,105899,711300,7113,Arizona Christian University,Phoenix,AZ,www.arizonachristian.edu,arizonachristian.edu/admissions/financial-aid/calculator,11
+127,105987,446700,4467,Tucson College,Tucson,AZ,www.tucsoncollege.edu,tucsoncollege.studentaidcalculator.com/survey.aspx,11
+128,106041,822100,8221,Universal Technical Institute of Arizona Inc,Avondale,AZ,www.uti.edu,www.uti.edu/student-services/financial-aid/npc,22
+129,106102,2171500,21715,Western International University,Tempe,AZ,www.west.edu,www.west.edu/calc/npcalc.htm,12
+130,106111,945915,9459,Empire Beauty School-NW Phoenix,Glendale,AZ,www.empire.edu,www.empire.edu/net-price-calculator,11
+131,106148,107900,1079,Yavapai College,Prescott,AZ,www.YC.EDU,www.yc.edu/webtools/forms/netpricecalc/,13
+132,106245,110100,1101,University of Arkansas at Little Rock,Little Rock,AR,ualr.edu/www/,npc.collegeboard.org/student/app/ualr,12
+133,106263,110900,1109,University of Arkansas for Medical Sciences,Little Rock,AR,www.uams.edu,www.uams.edu,12
+134,106281,3065100,30651,ABC Beauty College Inc,Arkadelphia,AR,www.abc-beautycollege.com,www.abc-beautycollege.com,32
+135,106306,108700,1087,Arkansas Baptist College,Little Rock,AR,www.arkansasbaptist.edu,arkansasbaptist.edu/New_NetPriceCalculator/npcalc.htm,12
+136,106315,3005100,30051,Arkansas Beauty School,Little Rock,AR,arkbeautyschool.com,arkbeautyschool.com,12
+137,106324,3997300,39973,Arkansas Beauty College,Russellville,AR,arkansasbeautycollegerussellville.com,arkansasbeautycollegerussellvillear.com/npcalc.htm,33
+138,106342,108800,1088,Lyon College,Batesville,AR,www.lyon.edu,my.lyon.edu/ics/default.aspx,33
+139,106351,3023400,30234,Arkansas College of Barbering and Hair Design,North Little Rock,AR,www.arkansascollegeofbarbering.com,www.arkansascollegeofbarbering.com,13
+140,106360,2363500,23635,Arthur s Beauty College Inc-Fort Smith,Fort Smith,AR,www.arthursbeautycollege.com,www.arthursbeautycollege.com,13
+141,106397,110800,1108,University of Arkansas,Fayetteville,AR,www.uark.edu,finaid.uark.edu/331.php,13
+142,106412,108600,1086,University of Arkansas at Pine Bluff,Pine Bluff,AR,www.uapb.edu,www.uapb.edu/index.php?option=com_content&view=article&id=59,13
+143,106449,109100,1091,Arkansas State University-Beebe,Beebe,AR,www.asub.edu,www.asub.edu/finaid/npcalc/npcalc.htm,31
+144,106458,109000,1090,Arkansas State University-Main Campus,Jonesboro,AR,www2.astate.edu,www.astate.edu/a/finaid/tuition-fees/net-price-calculator/index.dot,13
+145,106467,108900,1089,Arkansas Tech University,Russellville,AR,www.atu.edu,www.atu.edu/finaid/npcalc.htm,33
+146,106485,108500,1085,University of Arkansas at Monticello,Monticello,AR,www.uamont.edu,www.collegeportraits.org/AR/UAM/estimator/agree,33
+147,106494,2538500,25385,Arthur s Beauty College Inc-Jacksonville,Jacksonville,AR,arthursbeautycollege.com,www.arthursbeautycollege.com,21
+148,106546,3105200,31052,Baptist Health Schools-Little Rock,Little Rock,AR,www.bhslr.edu,www.bhslr.edu/student-services/accounts/netprice/npcalc.htm,12
+149,106625,2052200,20522,Black River Technical College,Pocahontas,AR,www.blackrivertech.edu,finaid.blackrivertech.edu,41
+150,106704,109200,1092,University of Central Arkansas,Conway,AR,www.uca.edu,www.uca.edu/financialaid/AidCalculator.php,13
+151,106713,109300,1093,Central Baptist College,Conway,AR,www.cbc.edu,www.cbc.edu/students/financial_aid/net_price_calculator.aspx,13
+152,106795,2220900,22209,Cossatot Community College of the University of Arkansas,De Queen,AR,www.cccua.edu/,www.cccua.edu/public/userfiles/files/FinAid/NPC/npcalc.htm,41
+153,106810,109500,1095,Crowley s Ridge College,Paragould,AR,www.crc.edu/,www.crc.edu/,41
+154,106829,704400,7044,Crowley s Ridge Technical Institute,Forrest City,AR,www.crti.tec.ar.us,www.crti.tec.ar.us,32
+155,106883,1226000,12260,East Arkansas Community College,Forrest City,AR,WWW.EACC.EDU,www.eacc.edu/Students/financial_aid/net_price_calc.html,32
+156,106892,2272400,22724,Eastern College of Health Vocations-Little Rock,Little Rock,AR,www.easterncollege.edu,www.easterncollege.edu,12
+157,106908,3124900,31249,Imagine-Paul Mitchell Partner School,North Little Rock,AR,www.pmlittlerock.com,www.pmlittlerock.com,13
+158,106980,1210500,12105,National Park Community College,Hot Springs,AR,www.npcc.edu,www.npcc.edu/admissions/financialaid/npcalc/npcalc.htm,23
+159,106999,2073500,20735,University of Arkansas Community College-Batesville,Batesville,AR,www.uaccb.edu,www.uaccb.edu,33
+160,107044,109700,1097,Harding University,Searcy,AR,www.harding.edu,www.harding.edu/admissions/npc.html,32
+161,107071,109800,1098,Henderson State University,Arkadelphia,AR,www.hsu.edu,www.hsu.edu/financial-aid/npcalc.htm,32
+162,107080,109900,1099,Hendrix College,Conway,AR,www.hendrix.edu,www.hendrix.edu/Admission/PriceCalculator/,13
+163,107099,3007100,30071,Hot Springs Beauty College,Hot Springs,AR,hotspringsbeautycollege.com,hotspringsbeautycollege.com,13
+164,107141,110000,1100,John Brown University,Siloam Springs,AR,www.jbu.edu,info.eaglenet.jbu.edu/npc,32
+165,107211,2525800,25258,Lees School of Cosmetology,North Little Rock,AR,LSCTraining.com,www.lsctraining.com,13
+166,107220,2341700,23417,Career Academy of Hair Design,Springdale,AR,www.beautynwa.com,www.beautynwa.com,13
+167,107275,2287400,22874,Marsha Kay Beauty College,Mountain Home,AR,marshakaybeautycollege.com,marshakaybeautycollege.com,33
+168,107293,1074100,10741,Academy of Salon and Spa,Fort Smith,AR,www.academysalonspa.com,www.academysalonspa.com,13
+169,107318,2348200,23482,Mid-South Community College,West Memphis,AR,www.midsouthcc.edu,www.netpricecalc.com/calc/midsouthcc,21
+170,107327,1286000,12860,Arkansas Northeastern College,Blytheville,AR,www.anc.edu,www.anc.edu,41
+171,107442,2284200,22842,New Tyler Barber College Inc,North Little Rock,AR,newtylerbarbercollege.com,newtylerbarbercollege.com,13
+172,107460,1226100,12261,North Arkansas College,Harrison,AR,www.northark.edu,www.northark.edu/financialaid/tuition_calculator.aspx,33
+173,107488,2073700,20737,Northwest Technical Institute,Springdale,AR,www.nwti.edu,nwti.edu/netprice/npcalc.htm,13
+174,107512,110200,1102,Ouachita Baptist University,Arkadelphia,AR,www.obu.edu,www.obu.edu/finaid/,32
+175,107521,997600,9976,College of the Ouachitas,Malvern,AR,www.coto.edu,www.coto.edu/sites/default/static/netpricecalc/npcalc.htm,31
+176,107549,2087000,20870,Ozarka College,Melbourne,AR,www.ozarka.edu,www.ozarka.edu/finaid/npcalc.cfm,43
+177,107558,109400,1094,University of the Ozarks,Clarksville,AR,www.ozarks.edu,admissions.ozarks.edu/secure/calc/,33
+178,107585,524500,5245,University of Arkansas Community College-Morrilton,Morrilton,AR,www.uaccm.edu,www.uaccm.edu,32
+179,107600,110300,1103,Philander Smith College,Little Rock,AR,www.philander.edu,www.philander.edu/financial-aid/npc.aspx,12
+180,107619,110400,1104,Phillips Community College of the University of Arkansas,Helena,AR,www.pccua.edu,www.pccua.edu//IR/npcalc.htm,41
+181,107637,570700,5707,Southeast Arkansas College,Pine Bluff,AR,www.seark.edu,www.seark.edu/financial-aid/net-price-calculator,13
+182,107655,2202400,22024,Professional Cosmetology Education Center,El Dorado,AR,www.professionalcosmetologyeducation.edu,professionalcosmetologyeducation.edu/index.php?option=com_content&view=article&id=75&Itemid=74,33
+183,107664,2075300,20753,Pulaski Technical College,North Little Rock,AR,www.pulaskitech.edu,www.pulaskitech.edu/administration/net_price_calculator/npcalc.htm,13
+184,107725,573200,5732,University of Arkansas Community College-Hope,Hope,AR,www.uacch.edu,www.uacch.edu/netpricecal/npcalc.htm,32
+185,107743,2111100,21111,Rich Mountain Community College,Mena,AR,www.rmcc.edu,www.rmcc.edu,33
+186,107789,792100,7921,Paul Mitchell the School-Arkansas,Fayetteville,AR,www.pmtsarkansas.com,school.paulmitchell.edu/fayetteville-ar/programs/netprice?progid=1,13
+187,107831,2569600,25696,Searcy Beauty College Inc,Searcy,AR,searcybeautycollege.com/,searcybeautycollege.com,32
+188,107840,110500,1105,Shorter College,N Little Rock,AR,www.shortercollege.org/,www.shortercollege.edu,13
+189,107877,110600,1106,Williams Baptist College,Walnut Ridge,AR,www.wbcoll.edu,williamsbaptistcollege.com/financial_aid_scholarships/net_price_calculator.aspx,42
+190,107974,2074600,20746,South Arkansas Community College,El Dorado,AR,www.southark.edu,www.southark.edu/netpricecalculator/,33
+191,107983,110700,1107,Southern Arkansas University Main Campus,Magnolia,AR,WWW.SAUMAG.EDU,www.saumag.edu/netprice/,33
+192,107992,773800,7738,Southern Arkansas University Tech,Camden,AR,www.sautech.edu,www.sautech.edu/tuit_calc.aspx,42
+193,108065,3214300,32143,Velvatex College of Beauty Culture,Little Rock,AR,www.velvatexcollege.com,www.velvatexcollege.com,12
+194,108092,111000,1110,University of Arkansas-Fort Smith,Fort Smith,AR,uafs.edu/,uafscalculator.com/,13
+195,108232,753100,7531,Academy of Art University,San Francisco,CA,www.academyart.edu,npc.collegeboard.org/student/app/academyart,11
+196,108250,732971,7329,ITT Technical Institute-Rancho Cordova,Rancho Cordova,CA,www.itt-tech.edu,www.itt-tech.edu/npc,13
+197,108269,3288300,32883,Academy of Chinese Culture and Health Sciences,Oakland,CA,www.acchs.edu,www.acchs.edu,11
+198,108348,2342400,23424,The Academy of Radio and TV Broadcasting,Huntington Beach,CA,WWW.ARBRADIO.COM,www.arbradio.com/NetPriceCalculator/npcalc.htm,21
+199,108649,2258600,22586,Avalon School of Cosmetology-Alameda,Alameda,CA,avalon.edu,avalon.edu/consumer-information/,21
+200,108667,672000,6720,College of Alameda,Alameda,CA,www.peralta.edu,webprod.cccco.edu/npc/341/npcalc.htm,21
+201,108807,111100,1111,Allan Hancock College,Santa Maria,CA,www.hancockcollege.edu/,webprod.cccco.edu/npc/611/npcalc.htm,12
+202,108852,746501,7465,American Academy of Dramatic Arts-Los Angeles,Los Angeles,CA,WWW.AADA.EDU,www.aada.edu/admissions/costs.html,11
+203,108870,2222000,22220,American Film Institute Conservatory,Los Angeles,CA,www.AFI.com,www.afi.com/conservatory/admissions/fa_cost.aspx,11
+204,108977,1307400,13074,American Beauty College,West Covina,CA,www.american-beauty-college.com,www.american-beauty-college.com,21
+205,109040,2241800,22418,American Career College-Los Angeles,Los Angeles,CA,americancareercollege.edu/,americancareercollege.edu/getting-started/financial-aid.html,11
+206,109086,2099200,20992,American Conservatory Theater,San Francisco,CA,www.act-sf.org,www.actaccess.org/netpricecalculator/npcalc.htm,11
+207,109208,123200,1232,American River College,Sacramento,CA,www.arc.losrios.edu/,www.losrios.edu/lrc/npcalc.php?c=arc,21
+208,109332,1112100,11121,Everest College-Hayward,Hayward,CA,www.bryman.edu,www.Everest.edu/npc,12
+209,109350,111300,1113,Antelope Valley College,Lancaster,CA,www.avc.edu,webprod.cccco.edu/npc/621/npcalc.htm,21
+210,109651,111600,1116,Art Center College of Design,Pasadena,CA,www.artcenter.edu,www.artcenter.edu/accd/admissions/financial_aid/net_price_calculator.jsp,12
+211,109721,902200,9022,Associated Technical College-Los Angeles,Los Angeles,CA,www.atcla.edu,atcla.edu/NetPriceCalculator/npcalc.htm,11
+212,109730,2553500,25535,Associated Technical College-San Diego,San Diego,CA,www.associatedtechcollege.com,www.associatedtechcollege.com,11
+213,109785,111700,1117,Azusa Pacific University,Azusa,CA,www.apu.edu,www.apu.edu/sfs/undergraduate/cost/calculator/,21
+214,109819,111800,1118,Bakersfield College,Bakersfield,CA,www.bakersfieldcollege.edu/,webprod.cccco.edu/npc/521/npcalc.htm,11
+215,109907,111900,1119,Barstow Community College,Barstow,CA,www.barstow.edu,webprod.cccco.edu/npc/911/npcalc.htm,32
+216,109934,705000,7050,Bellus Academy-National City,National City,CA,www.bellusacademy.edu,www.bellusacademy.edu,21
+217,110060,3266300,32663,Bethesda University of California,Anaheim,CA,www.buc.edu,www.buc.edu,11
+218,110097,112200,1122,Biola University,La Mirada,CA,www.biola.edu,undergrad.biola.edu/finaid/#net-price,21
+219,110185,112300,1123,Brooks Institute,Santa Barbara,CA,www.brooks.edu,brooks.studentaidcalculator.com,13
+220,110194,2543400,25434,Brownson Technical School,Anaheim,CA,www.brownson.edu,www.brownson.edu,11
+221,110219,716400,7164,Bryan University,Los Angeles,CA,www.bryancollege.edu,www.bryanuniversity.edu/w_tuition_financial_aid.aspx?,11
+222,110246,807300,8073,Butte College,Oroville,CA,www.butte.edu,webprod.cccco.edu/npc/111/npcalc.htm,42
+223,110316,1215400,12154,California Institute of Integral Studies,San Francisco,CA,www.ciis.edu,npc.collegeboard.org/student/app/ciis,11
+224,110334,112400,1124,Cabrillo College,Aptos,CA,www.cabrillo.edu,webprod.cccco.edu/npc/411/npcalc.htm,22
+225,110361,112500,1125,California Baptist University,Riverside,CA,www.calbaptist.edu,calbaptist.studentaidcalculator.com/welcome.aspx,11
+226,110370,112700,1127,California College of the Arts,San Francisco,CA,www.cca.edu,www.cca.edu/admissions/financialaid/calculator,11
+227,110404,113100,1131,California Institute of Technology,Pasadena,CA,www.caltech.edu,www.finaid.caltech.edu/,12
+228,110413,113300,1133,California Lutheran University,Thousand Oaks,CA,www.callutheran.edu/,www.callutheran.edu/financial_aid/getting_started/calculator.php,12
+229,110422,114300,1143,California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,calpoly.edu,www.csumentor.edu/finaid/pais/,23
+230,110468,1111700,11117,Alliant International University,San Diego,CA,www.alliant.edu,www.alliant.edu/_resources/net-price-cal/npcalc.htm,11
+231,110486,799300,7993,California State University-Bakersfield,Bakersfield,CA,www.csub.edu,www.csumentor.edu/finaid/pais/,11
+232,110495,115700,1157,California State University-Stanislaus,Turlock,CA,www.csustan.edu,www.csumentor.edu/FinAid/PAIS/,23
+233,110510,114200,1142,California State University-San Bernardino,San Bernardino,CA,www.csusb.edu,www.csumentor.edu/FinAid/pais/,12
+234,110529,114400,1144,California State Polytechnic University-Pomona,Pomona,CA,www.csupomona.edu,www.csumentor.edu/finaid/pais/,21
+235,110538,114600,1146,California State University-Chico,Chico,CA,www.csuchico.edu,www.csuchico.edu/fa/awardInfo/cost.shtml,13
+236,110547,114100,1141,California State University-Dominguez Hills,Carson,CA,www.csudh.edu,www.csumentor.edu/finaid/pais/,13
+237,110556,114700,1147,California State University-Fresno,Fresno,CA,www.csufresno.edu,www.collegeportraits.org/CA/CSUFRESNO/costs,11
+238,110565,113700,1137,California State University-Fullerton,Fullerton,CA,www.fullerton.edu,www.csumentor.edu/finaid/pais/,21
+239,110574,113800,1138,California State University-East Bay,Hayward,CA,www.csueastbay.edu,www20.csueastbay.edu/prospective/cost-and-financial-aid/cost-of-attendance/,12
+240,110583,113900,1139,California State University-Long Beach,Long Beach,CA,www.csulb.edu,www.csumentor.edu/finaid/pais/,11
+241,110592,114000,1140,California State University-Los Angeles,Los Angeles,CA,www.calstatela.edu,www.csumentor.edu/finaid/pais/,11
+242,110608,115300,1153,California State University-Northridge,Northridge,CA,www.csun.edu,www.csumentor.edu/finaid/pais/,11
+243,110617,115000,1150,California State University-Sacramento,Sacramento,CA,www.csus.edu,www.csumentor.edu/finaid/pais/,11
+244,110635,131200,1312,University of California-Berkeley,Berkeley,CA,www.berkeley.edu,calculator.berkeley.edu/,12
+245,110644,131300,1313,University of California-Davis,Davis,CA,www.ucdavis.edu,financialaid.ucdavis.edu/aidEstimator/ucdcalcmain.aspx,23
+246,110653,131400,1314,University of California-Irvine,Irvine,CA,www.uci.edu/,www.ofas.uci.edu/content/Calculator.aspx,12
+247,110662,131500,1315,University of California-Los Angeles,Los Angeles,CA,www.ucla.edu/,www.fao.ucla.edu/aid_estimator/,11
+248,110671,131600,1316,University of California-Riverside,Riverside,CA,WWW.UCR.EDU,www.finaidestimator.ucr.edu/,11
+249,110680,131700,1317,University of California-San Diego,La Jolla,CA,www.ucsd.edu,students.ucsd.edu/finances/financial-aid/forms/calculator.html,11
+250,110705,132000,1320,University of California-Santa Barbara,Santa Barbara,CA,www.ucsb.edu,www.finaid.ucsb.edu/Prospective/AidEstimator.aspx,22
+251,110714,132100,1321,University of California-Santa Cruz,Santa Cruz,CA,www.ucsc.edu/,www2.ucsc.edu/finaidcalc/calculator/index.php,13
+252,110778,2267600,22676,Sofia University,Palo Alto,CA,www.sofia.edu,www.sofia.edu/admissions/loancalculator.php,13
+253,110875,2065700,20657,California Beauty School,Modesto,CA,www.calbeautycollege.com,www.calbeautycollege.com,12
+254,110918,884400,8844,California Christian College,Fresno,CA,www.calchristiancollege.edu,www.calchristiancollege.edu/financial-aid/calculator,11
+255,110945,2110800,21108,California College San Diego,San Diego,CA,www.cc-sd.edu,cc-sd.studentaidcalculator.com/survey.aspx,11
+256,111009,2220200,22202,Le Cordon Bleu College of Culinary Arts-San Francisco,San Francisco,CA,www.caculinary.edu,chefs.studentaidcalculator.com,11
+257,111054,1186500,11865,California Hair Design Academy,La Mesa,CA,chdaschools.com,chdaschools.com,21
+258,111081,113200,1132,California Institute of the Arts,Valencia,CA,www.calarts.edu,www.calarts.edu,21
+259,111188,113400,1134,California Maritime Academy,Vallejo,CA,www.csum.edu,www.csum.edu/web/admissions/financial-aid,12
+260,111391,1310300,13103,California Western School of Law,San Diego,CA,www.cwsl.edu,www.cwsl.edu,11
+261,111434,697300,6973,Canada College,Redwood City,CA,canadacollege.edu,webprod.cccco.edu/npc/371/npcalc.htm,21
+262,111461,890300,8903,College of the Canyons,Santa Clarita,CA,www.canyons.edu,www.canyons.edu/offices/FinAid/netcalc.asp,21
+263,111513,2125000,21250,Career Academy of Beauty,Garden Grove,CA,CAofB.com,caofb.com,21
+264,111638,673100,6731,Casa Loma College-Van Nuys,Van Nuys,CA,www.casalomacollege.edu,casalomacollege.studentaidcalculator.com/survey.aspx,11
+265,111708,2332809,23328,CET-San Diego,San Diego,CA,www.cetweb.org/index.php,cetweb.org/for-students/financial-aid/net-price-calculator/,11
+266,111717,2332800,23328,CET-Sobrato,San Jose,CA,cetweb.org,cetweb.org,11
+267,111726,2332810,23328,CET-El Centro,El Centro,CA,cetweb.org,cetweb.org,13
+268,111744,2332814,23328,CET-San Bernardino,San Bernardino,CA,cetweb.org,cetweb.org,12
+269,111762,2332819,23328,CET-Watsonville,Watsonville,CA,www.cetweb.org,cetweb.org/for-students/financial-aid/net-price-calculator/,13
+270,111771,2332808,23328,CET-Gilroy,Gilroy,CA,cetweb.org,cetweb.org,23
+271,111799,2332813,23328,CET-Salinas,Salinas,CA,cetweb.org,cetweb.org,12
+272,111887,116100,1161,Cerritos College,Norwalk,CA,www.cerritos.edu,webprod.cccco.edu/npc/811/npcalc.htm,21
+273,111896,1011100,10111,Cerro Coso Community College,Ridgecrest,CA,cerrocoso.edu,webprod.cccco.edu/npc/522/npcalc.htm,41
+274,111920,116200,1162,Chabot College,Hayward,CA,www.chabotcollege.edu,webprod.cccco.edu/npc/482/npcalc.htm,12
+275,111939,116300,1163,Chaffey College,Rancho Cucamonga,CA,www.chaffey.edu,www.chaffey.edu/finaid/Links.shtml,21
+276,111948,116400,1164,Chapman University,Orange,CA,www.chapman.edu,www.chapman.edu/finaid/orangeUG/,12
+277,111966,1036500,10365,Charles R Drew University of Medicine and Science,Los Angeles,CA,www.cdrewu.edu,www.cdrewu.edu/Calculators,21
+278,112075,2070500,20705,Concordia University-Irvine,Irvine,CA,www.cui.edu,www.cui.edu/studentlife/financial-aid/undergraduate/index.aspx?id=21911,12
+279,112084,1203100,12031,San Diego Christian College,El Cajon,CA,www.sdcc.edu,www.sdcc.edu/NetPriceCalc/npcalc.htm,21
+280,112127,116500,1165,Church Divinity School of the Pacific,Berkeley,CA,www.cdsp.edu,www.cdsp.edu,12
+281,112172,116600,1166,Citrus College,Glendora,CA,www.citruscollege.edu,www.citruscollege.edu/stdntsrv/finaid/Documents/NetPriceCalculator.mht,21
+282,112181,2178700,21787,Citrus Heights Beauty College,Citris Heights,CA,www.chbeautycollege.com,www.chbeautycollege.com,21
+283,112190,450200,4502,City College of San Francisco,San Francisco,CA,www.ccsf.edu,www.ccsf.edu/Services/Financial_Aid,11
+284,112251,116900,1169,Claremont Graduate University,Claremont,CA,www.cgu.edu,www.cgu.edu/custom/finaid/pages/5263.asp,21
+285,112260,117000,1170,Claremont McKenna College,Claremont,CA,www.claremontmckenna.edu/,npc.collegeboard.org/student/app/claremontmckenna,21
+286,112288,2497300,24973,Milan Institute-Visalia,Visalia,CA,www.milaninstitute.edu,www.milaninstitute.edu,12
+287,112367,2309500,23095,Clovis Adult Education,Clovis,CA,www.clovisadultschool.com,www.clovisadultschool.com/,21
+288,112385,2063500,20635,Coastline Community College,Fountain Valley,CA,www.coastline.edu,webprod.cccco.edu/npc/831/npcalc.htm,13
+289,112394,117700,1177,Cogswell College,Sunnyvale,CA,www.cogswell.edu,www.cogswell.edu/financial-aid/npcalc.htm,12
+290,112446,729600,7296,Coleman University,San Diego,CA,www.coleman.edu,www.coleman.edu/prospective-students/fa-calculator/index.htm,11
+291,112455,3577300,35773,COBA Academy,Orange,CA,www.coba.edu,www.coba.edu/fees.html,12
+292,112525,2482700,24827,Western University of Health Sciences,Pomona,CA,www.westernu.edu,www.westernu.edu/financial-budgets,21
+293,112561,770700,7707,Columbia College,Sonora,CA,www.gocolumbia.edu/,webprod.cccco.edu/npc/591/npcalc.htm,41
+294,112570,2110200,21102,Columbia College-Hollywood,Tarzana,CA,www.columbiacollege.edu,www.columbiacollege.edu/financial-aid/net-price-calculator,11
+295,112686,119701,1197,El Camino College-Compton Center,Compton,CA,www.compton.edu,testsite.cccco.edu/npc/711/npcalc.htm,21
+296,112826,119000,1190,Contra Costa College,San Pablo,CA,www.contracosta.edu,www.contracosta.edu/studentservices/finaid/resources/Shared%20Documents/default.aspx,21
+297,113096,753600,7536,Cosumnes River College,Sacramento,CA,www.crc.losrios.edu/,www.losrios.edu/lrc/npcalc.php?c=crc,11
+298,113111,927200,9272,Crafton Hills College,Yucaipa,CA,www.craftonhills.edu,webprod.cccco.edu/npc/981/npcalc.htm,41
+299,113193,119200,1192,Cuesta College,San Luis Obispo,CA,WWW.CUESTA.EDU,www.cuesta.edu/student/aboutmoney/finaid/resources/Net_Price_Calculator.html,23
+300,113218,2111300,21113,Cuyamaca College,El Cajon,CA,www.cuyamaca.edu,webprod.cccco.edu/npc/021/npcalc.htm,21
+301,113236,119300,1193,Cypress College,Cypress,CA,www.cypresscollege.edu,webprod.cccco.edu/npc/861/npcalc.htm,21
+302,113333,448000,4480,De Anza College,Cupertino,CA,www.deanza.edu/,webprod.cccco.edu/npc/421/npcalc.htm,13
+303,113397,3467300,34673,Marinello Schools of Beauty-Hemet,Hemet,CA,www.marinello.com,www.marinello.com,22
+304,113449,3964400,39644,International School of Beauty Inc,Palm Desert,CA,internationalschoolofbeauty.com,internationalschoolofbeauty.com,21
+305,113537,3025600,30256,Dell Arte International School of Physical Theatre,Blue Lake,CA,www.dellarte.com/school,www.dellarte.com/school,41
+306,113573,118200,1182,College of the Desert,Palm Desert,CA,collegeofthedesert.edu,webprod.cccco.edu/npc/931/npcalc.htm,21
+307,113582,2298000,22980,Design Institute of San Diego,San Diego,CA,WWW.DISD.EDU,disd.studentaidcalculator.com/survey.aspx,11
+308,113634,119100,1191,Diablo Valley College,Pleasant Hill,CA,www.dvc.edu,www.dvc.edu/org/departments/financial-aid/netpricecalculator.htm,21
+309,113698,119600,1196,Dominican University of California,San Rafael,CA,www.dominican.edu,www.dominican.edu/admissions/aid/net-price-calculator-npc,13
+310,113704,129600,1296,Dominican School of Philosophy & Theology,Berkeley,CA,www.dspt.edu,www.dspt.edu/1978104916433687/site/default.asp,12
+311,113856,2226000,22260,East Los Angeles College,Monterey Park,CA,www.elac.edu/index.htm,www.elac.edu/admission/finaid/index.htm,13
+312,113908,2086400,20864,Marinello Schools of Beauty-Santa Clara,Santa Clara,CA,www.marinello.com,www.marinello.com,12
+313,113980,119700,1197,El Camino Community College District,Torrance,CA,www.elcamino.edu,www.finaid.org/calculators/studentbudget.phtml,21
+314,114044,2091200,20912,Elegance International,Hollywood,CA,ei.edu/,www.ei.edu/netpricecalculator/npcalc.htm,11
+315,114071,1265000,12650,Marinello Schools of Beauty-Burbank,Burbank,CA,www.marinello.com,www.marinello.com,12
+316,114080,2221300,22213,Marinello Schools of Beauty-Moreno Valley,Moreno Valley,CA,www.marinello.com,www.marinello.com,21
+317,114123,903200,9032,Empire College School of Business,Santa Rosa,CA,www.empcol.edu,www.empcol.edu,12
+318,114266,1245200,12452,Evergreen Valley College,San Jose,CA,www.evc.edu,testsite.cccco.edu/npc/471/npcalc.htm,11
+319,114354,1111200,11112,Fashion Institute of Design & Merchandising-Los Angeles,Los Angeles,CA,www.fidm.edu,fidm.edu/en/Admissions/Tuition+Financial+Aid+and+Scholarships/Net+Price+Calculator/,11
+320,114390,1111202,11112,Fashion Institute of Design & Merchandising-San Francisco,San Francisco,CA,WWW.FIDM.EDU,fidm.edu/en/Admissions/Tuition+Financial+Aid+and+Scholarships/Net+Price+Calculator/,11
+321,114415,1111203,11112,Fashion Institute of Design & Merchandising-Orange County,Irvine,CA,FIDM.edu,fidm.edu/en/Admissions/Tuition+Financial+Aid+and+Scholarships/Net+Price+Calculator/,12
+322,114433,859700,8597,Feather River Community College District,Quincy,CA,www.frc.edu,webprod.cccco.edu/npc/121/npcalc.htm,41
+323,114460,725300,7253,Federico Beauty Institute,Sacramento,CA,federico.edu,www.federico.edu/disclosures,21
+324,114549,2096100,20961,Fielding Graduate University,Santa Barbara,CA,www.fielding.edu,www.fielding.edu/financialAid,13
+325,114585,3131300,31313,Five Branches University,Santa Cruz,CA,www.fivebranches.edu,www.fivebranches.edu,22
+326,114628,1298500,12985,Hair California Beauty Academy,Orange,CA,www.hairca.com,hairca.com/admissions.html,12
+327,114716,119900,1199,Foothill College,Los Altos Hills,CA,www.foothill.edu,webprod.cccco.edu/npc/422/npcalc.htm,21
+328,114761,2230900,22309,Fredrick and Charles Beauty College,Eureka,CA,www.fandcbeauty.com,www.fandcbeauty.com,33
+329,114789,130700,1307,Fresno City College,Fresno,CA,www.fresnocitycollege.edu,www.fresnocitycollege.edu/index.aspx?page=241,11
+330,114813,125300,1253,Fresno Pacific University,Fresno,CA,www.fresno.edu,experiencefpu.com/financial-aid/traditional-undergraduate-net-price-calculator,11
+331,114840,120000,1200,Fuller Theological Seminary in California,Pasadena,CA,www.fuller.edu,www.fuller.edu/admissions/tuition-and-fees.aspx,12
+332,114859,120100,1201,Fullerton College,Fullerton,CA,www.fullcoll.edu,webprod.cccco.edu/npc/862/npcalc.htm,21
+333,114938,120200,1202,Gavilan College,Gilroy,CA,www.gavilan.edu,www.gavilan.edu/finaid/npc/,23
+334,114947,2231900,22319,Gemological Institute of America-Carlsbad,Carlsbad,CA,www.gia.edu,www.gia.edu/net-price-calculator,12
+335,115001,120300,1203,Glendale Community College,Glendale,CA,www.glendale.edu,webprod.cccco.edu/npc/731/npcalc.htm,12
+336,115010,2338500,23385,Glendale Career College,Glendale,CA,www.success.edu,www.north-westcollege.edu/ecamp/npc-gcc/npcalc.htm,12
+337,115083,120500,1205,Golden Gate University-San Francisco,San Francisco,CA,www.ggu.edu,www.ggu.edu/undergraduate/enrollment/financial-aid/net-price-calculator,11
+338,115126,120600,1206,Golden West College,Huntington Beach,CA,www.goldenwestcollege.edu,webprod.cccco.edu/npc/832/npcalc.htm,21
+339,115214,120700,1207,Graduate Theological Union,Berkeley,CA,WWW.GTU.EDU,www.gtu.edu,12
+340,115296,120800,1208,Grossmont College,El Cajon,CA,www.grossmont.edu/,webprod.cccco.edu/npc/022/npcalc.htm,21
+341,115357,2211000,22110,Salon Success Academy-San Bernardino,San Bernardino,CA,www.gotobeautyschool.com,www.gotobeautyschool.com,12
+342,115393,120900,1209,Hartnell College,Salinas,CA,www.hartnell.edu,www.hartnell.edu/admissions/fees_and_refunds/fee_calculator.html,12
+343,115409,117100,1171,Harvey Mudd College,Claremont,CA,www.hmc.edu,npc.collegeboard.org/student/app/hmc,21
+344,115454,723411,7234,Heald College-Rancho Cordova,Rancho Cordova,CA,www.heald.edu,www.heald.edu/npc,13
+345,115472,723412,7234,Heald College-Fresno,Fresno,CA,www.heald.edu,www.heald.edu/npc,11
+346,115490,723405,7234,Heald College-San Jose,Milpitas,CA,www.heald.edu,www.heald.edu/npc,13
+347,115515,723400,7234,Heald College-San Francisco,San Francisco,CA,www.heald.edu,www.heald.edu/npc,11
+348,115533,723404,7234,Heald College-Concord,Concord,CA,www.Heald.edu,www.heald.edu/npc,21
+349,115658,2285100,22851,Hilltop Beauty School,Daly City,CA,www.hilltopbeautyschool.com,www.hilltopbeautyschool.com,21
+350,115728,118300,1183,Holy Names University,Oakland,CA,www.hnu.edu,www.hnu.edu/calc/npcalc.htm,11
+351,115746,3126800,31268,Pacifica Graduate Institute,Carpinteria,CA,www.pacifica.edu,www.pacifica.edu,41
+352,115755,114900,1149,Humboldt State University,Arcata,CA,www.humboldt.edu,www.csumentor.edu/finaid/pais/,33
+353,115773,121200,1212,Humphreys College-Stockton and Modesto Campuses,Stockton,CA,www.humphreys.edu,www.humphreys.edu/index.php?option=com_content&view=article&id=20&Itemid=52,11
+354,115861,121400,1214,Imperial Valley College,Imperial,CA,www.imperial.edu,www.imperial.edu/students/financial-aid-and-scholarships/cost-of-attendance/,41
+355,115931,2128300,21283,Institute for Business and Technology,Santa Clara,CA,www.ibttech.com,ibttech.studentaidcalculator.com/survey.aspx,12
+356,116226,2520300,25203,Interior Designers Institute,Newport Beach,CA,idi.edu,www.idi.edu/net-price-calculator.html,13
+357,116350,2255400,22554,Toni & Guy Hairdressing Academy-Santa Monica,Santa Monica,CA,toniguy.com/academy/santa_monica_beauty_school/default.aspx,toniguy.com/academy/santa_monica_beauty_school/default.aspx,13
+358,116439,2539500,25395,Irvine Valley College,Irvine,CA,www.ivc.edu,www.ivc.edu/student/finaid/Pages/caculator.aspx,12
+359,116466,732981,7329,ITT Technical Institute-National City,National City,CA,www.itt-tech.edu,www.itt-tech.edu/npc,21
+360,116475,732985,7329,ITT Technical Institute-San Dimas,San Dimas,CA,www.itt-tech.edu,www.itt-tech.edu/npc,21
+361,116484,732909,7329,ITT Technical Institute-Orange,Orange,CA,www.itt-tech.edu,www.itt-tech.edu/npc,12
+362,116563,1202600,12026,Bellus Academy-El Cajon,El Cajon,CA,www.bellusacademy.edu,www.bellusacademy.edu,21
+363,116712,448400,4484,John F Kennedy University,Pleasant Hill,CA,www.jfku.edu,www.jfku.edu,21
+364,116846,274100,2741,American Jewish University,Los Angeles,CA,www.aju.edu,www.aju.edu,11
+365,117052,130800,1308,Reedley College,Reedley,CA,www.reedleycollege.edu,webprod.cccco.edu/npc/572/npcalc.htm,32
+366,117104,2270600,22706,Life Pacific College,San Dimas,CA,www.lifepacific.edu,www.lifepacific.edu/admissions/financial-aid/net-price-calculator/,21
+367,117113,2179947,21799,The Art Institute of California-Argosy University San Diego,San Diego,CA,www.artinstitutes.edu/san-diego/,tcc.noellevitz.com/edmc/Freshman-Students?iframe=true&width=600&height=1000,11
+368,117140,121600,1216,University of La Verne,La Verne,CA,www.laverne.edu/,laverne.studentaidcalculator.com/survey.aspx,21
+369,117168,2330500,23305,Laguna College of Art and Design,Laguna Beach,CA,www.lcad.edu,www.lcad.edu/netprice,41
+370,117195,1290700,12907,Lake Tahoe Community College,South Lake Tahoe,CA,www.ltcc.edu,webprod.cccco.edu/npc/221/npcalc.htm,41
+371,117238,1301000,13010,Lancaster Beauty School,Lancaster,CA,lancasterbeautyschool.com,lancasterbeautyschool.com,21
+372,117247,126600,1266,Laney College,Oakland,CA,www.laney.edu/wp/,webprod.cccco.edu/npc/343/npcalc.htm,11
+373,117274,121700,1217,Lassen Community College,Susanville,CA,www.lassencollege.edu/,lassencollege.edu,41
+374,117520,2228500,22285,Life Chiropractic College West,Hayward,CA,www.lifewest.edu,lifewest.edu/prospective/financial-aid-tuition-budget.shtml,12
+375,117557,697500,6975,Lincoln University,Oakland,CA,www.lincolnuca.edu,lincolnuca.edu/admission/financialaid,11
+376,117575,3332300,33323,Southern California Seminary,El Cajon,CA,www.socalsem.edu,www.socalsem.edu/netpricecalculator/npcalc.htm,21
+377,117627,121500,1215,La Sierra University,Riverside,CA,www.lasierra.edu,www.lasierra.edu/fileadmin/documents/finaid/netprice/npcalc.htm,11
+378,117645,121900,1219,Long Beach City College,Long Beach,CA,www.lbcc.edu,webprod.cccco.edu/npc/841/npcalc.htm,11
+379,117672,122900,1229,Southern California University of Health Sciences,Whittier,CA,www.scuhs.edu,www.scuhs.edu,21
