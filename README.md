@@ -32,7 +32,7 @@
      The challeneges of using them professionally, firstly is the compatibility and time constrains in using them with different operating systems. The installation and development procedures slightly differ for each OS and a lot of time consumes in setting up the frameworks and installations.
      Secondly, limited help from the articles, tutorials and blogs. Since these are developing technologies, new issues keep arising and sometimes it is difficult to find the root cause.
  
- #####4. Commands to upload project 
+#####4. Commands to upload and run project 
 
      *Github repository
       git init
