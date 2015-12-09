@@ -5,7 +5,7 @@ class DisplayController < ApplicationController
   def list
   
   
-  client = Mongo::Client.new([ 'ds031957.mongolab.com:31957' ],:database =>'heroku_fsp58p2g',:user=>'heroku_fsp58p2g',:password=>'2ga8p224lfv9eh59q8qr4m0ilc');
+  client = Mongo::Client.new([ 'ds053218.mongolab.com:53218' ],:database =>'heroku_88bm98v9',:user=>'heroku_88bm98v9',:password=>'48sedvip68purs2pj36ookerri');
   db=client.database
   coll_db=db.collection('university_mongo');
   @result=coll_db.find({ :seqid =>params[:j]});
